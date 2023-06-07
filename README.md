@@ -2,7 +2,6 @@
 
 #### About Me:
 - 🍎 iOS Development - With 3+years experience working with iOS Apps, having Swift with UIKit my strogents skills
-- 📝 UX Design - I love to see anothers apps UI and get the small details to add them into my own projects!
 - 🎨 Graphic Design - Still improving this skill, creating all views design for my ongoing projects. Always working with Photoshop, Illustrator and Figma (Self-taught).
 - 🎯 My Hobbies: Drawing, Watching Movies & Series, Listening to music and Games
 - 💡 I like to learn new things about anything and improve my knowledge in certain areas over time.
