@@ -1,10 +1,6 @@
 ### ✌🏽Hi there, je suis Bianca! iOS Developer based in São Paulo!
 
-#### About Me:
-- 🍎 iOS Development - With 3+years experience working with iOS Apps, having Swift with UIKit one of my strogents skills
-- 🎨 Graphic Design - Still improving this skill, creating all views design for my ongoing projects.
-- 🎯 My Hobbies: Drawing, Watching Movies & Series, Listening to music and Games
-- 💡 I like to learn new things about anything and improve my knowledge in certain areas over time.
+- 🍎 iOS Developer - With 3+years experience working with iOS Apps, having Swift with UIKit one of my strogents skills
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=la-ferreira-bianca&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
