@@ -2,7 +2,7 @@
 
 - 🍎 iOS Developer - With 3+years experience working with iOS Apps, having Swift with UIKit one of my strogents skills
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=la-ferreira-bianca&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ferreirabianca&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **la-ferreira-bianca/la-ferreira-bianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
